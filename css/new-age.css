@@ -4,8 +4,27 @@
 }
 
 @font-face {
+    font-family: 'Gotham-Light';
+    src: url('../fonts/gotham-font/Gotham-Light.otf'); 
+}
+
+@font-face {
     font-family: 'Gotham-Bold';
     src: url('../fonts/gotham-font/Gotham-Bold.otf'); 
+}
+
+@font-face {
+    font-family: 'Selima';
+    src: url('../fonts/Selima.otf'); 
+}
+
+.about-text {
+  font-family: 'Gotham-Light';
+}
+
+#cheiroverde {
+  font-family: 'Selima';
+  font-size: 25px;
 }
 
 /*!
